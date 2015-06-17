@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>it.caladyon.spring</groupId>
-	<artifactId>spring-cdi-decorator</artifactId>
+	<artifactId>spring-deco</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>spring-cdi-decorator</name>
+	<name>spring-deco</name>
 	<description>Implementation of Decorator/Delegate annotations for Spring</description>
 	
 	<build>
